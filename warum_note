@@ -1,0 +1,23 @@
+#!/bin/bash
+
+SAID="TestC"
+
+## Define Database for ...
+declare -a arr=(	"Warum Note? (R.M)" 
+                	"Wissen Sie überhaupt, wie der Winkel definiert ist. (P.N)"
+                	"Und jetzt kommt der Moment, in dem der Frosch in Wasser gumpt und sein Leben riskiert. (R.G)"
+			"Guten Nachmittag miteinander. (H.P.S)"
+			"Sklave des Tools! (P.N)"
+			"Grad Patent amelde. (p.N)"
+                )
+
+## Find Database lenght ...
+ARR_LENGHT=${#arr[@]}
+
+## Choose a randoom entry ...
+RAND_NUMB=$(( ( RANDOM % $ARR_LENGHT )  + 1 ))
+
+echo "${arr[$RAND_NUMB]}"
+
+
+
