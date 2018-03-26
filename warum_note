@@ -13,12 +13,12 @@ declare -a arr=(	"Warum Note? (R.M)"
                 )
 
 ## Find Database lenght ...
-ARR_LENGHT=${#arr[@]}
+ARR_LENGHT=${#arr[@]}-1
 
 echo $ARR_LENGHT
 
 ## Choose a randoom entry ...
-RAND_NUMB=$(( ( RANDOM % $ARR_LENGHT )  + 1 ))
+RAND_NUMB=$(( ( RANDOM % $ARR_LENGHT )  + 0 ))
 
 echo $RAND_NUMB
 
