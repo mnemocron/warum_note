@@ -10,6 +10,9 @@ declare -a arr=(	"Warum Note? (R.M)"
 			"Sklave des Tools! (P.N)"
 			"Grad Patent amelde. (p.N)"
 			"Was macht ein Lauch im Wind? (E.v.D)"
+			"Sind Sie Tessiner? (R.W)"
+			"Simulieren ist wirtschaftlich und macht spass? (R.W)"
+			"Wixxed Sie witer! (H.P.S)"
                 )
 
 ## Find Database lenght ...
