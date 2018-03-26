@@ -13,6 +13,9 @@ declare -a arr=(	"Warum Note? (R.M)"
 			"Sind Sie Tessiner? (R.W)"
 			"Simulieren ist wirtschaftlich und macht spass? (R.W)"
 			"Wixxed Sie witer! (H.P.S)"
+			"Audi-Max und -Moriz. (M.M)"
+			"Yes Yes (R.G)"
+			"Batch Batch double Batch (R.G)"
                 )
 
 ## Find Database lenght ...
