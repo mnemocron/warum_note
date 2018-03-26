@@ -1,21 +1,37 @@
 #!/bin/bash
 
-SAID="TestC"
-
 ## Define Database for ...
 declare -a arr=(	"Warum Note? (R.M)" 
+
+			"Guten Tag Herr Christoph :-) (D.A)"
+
                 	"Wissen Sie überhaupt, wie der Winkel definiert ist. (P.N)"
-                	"Und jetzt kommt der Moment, in dem der Frosch in Wasser gumpt und sein Leben riskiert. (R.G)"
-			"Guten Nachmittag miteinander. (H.P.S)"
+			"Totale Überforderung der Studis. (P.N)"
 			"Sklave des Tools! (P.N)"
-			"Grad Patent amelde. (p.N)"
+			"Grad Patent amelde. (P.N)"
+
+                	"Und jetzt kommt der Moment, in dem der Frosch in Wasser sprint und sein Leben riskiert. (R.G)"
+			"Yes Yes (R.G)"
+			"check - check - double check (R.G)"
+			"batch batch (R.G)"
+
+			"Audi-Max und -Moriz. (M.M)"
+
+			"Guten Nachmittag miteinander. (H.P.S)"
+			"Wixxed Sie witer! (H.P.S)"
+
 			"Was macht ein Lauch im Wind? (E.v.D)"
+
 			"Sind Sie Tessiner? (R.W)"
 			"Simulieren ist wirtschaftlich und macht spass? (R.W)"
-			"Wixxed Sie witer! (H.P.S)"
-			"Audi-Max und -Moriz. (M.M)"
-			"Yes Yes (R.G)"
-			"Batch Batch double Batch (R.G)"
+
+			"Gioconda (C.B)"
+
+			"Nö i bi elektro-sicherheitsberater ^^ Und bald Ingenieur :p. (Kaktus)"
+
+			"Hei Grossmuetter vom Severin alles alles gueti zum geburi. (Sklaven des Tools)"
+
+			
                 )
 
 ## Find Database lenght ...
