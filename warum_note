@@ -1,33 +1,34 @@
 #!/bin/bash
 
 ## Define Database for ...
-declare -a arr=(	"Warum Note? (R.M)" 
+declare -a arr=(	"Warum Note? (R.M.)" 
 
-			"Guten Tag Herr Christoph :-) (D.A)"
+			"Guten Tag Herr Christoph :-) (D.A.)"
 
-                	"Wissen Sie überhaupt, wie der Winkel definiert ist. (P.N)"
-			"Totale Überforderung der Studis. (P.N)"
-			"Sklave des Tools! (P.N)"
-			"Grad Patent amelde. (P.N)"
+			"Wissen Sie überhaupt, wie der Winkel definiert ist?! (P.N.)"
+			"Totale Überforderung der Studis. (P.N.)"
+			"Sklave des Tools! (P.N.)"
+			"Grad Patent amelde. (P.N.)"
 
-                	"Und jetzt kommt der Moment, in dem der Frosch in Wasser sprint und sein Leben riskiert. (R.G)"
-			"Yes Yes (R.G)"
-			"check - check - double check (R.G)"
-			"batch batch (R.G)"
+                	"Und jetzt kommt der Moment, in dem der Frosch in Wasser sprint und sein Leben riskiert. (R.G.)"
+			"Yes Yes (R.G.)"
+			"check - check - double check (R.G.)"
+			"bätsch bätsch (R.G.)"
+			"Mit dem chamer chlini Chind verschrecke! (R.G.)"
 
-			"Audi-Max und -Moriz. (M.M)"
+			"Audi-Max und -Moritz. (M.M.)"
 
-			"Guten Nachmittag miteinander. (H.P.S)"
-			"Wixxed Sie witer! (H.P.S)"
+			"Guten Nachmittag miteinander. (H.P.S.)"
+			"Wiksed Sie witer! (H.P.S.)"
 
-			"Was macht ein Lauch im Wind? (E.v.D)"
+			"Was macht ein Lauch im Wind? (E.v.D.)"
 
-			"Sind Sie Tessiner? (R.W)"
-			"Simulieren ist wirtschaftlich und macht spass? (R.W)"
+			"Sind Sie Tessiner? (S.W.)"
+			"Simulieren ist wirtschaftlich und macht spass? (S.W.)"
 
-			"Gioconda (C.B)"
+			"Gioconda (C.B.)"
 
-			"Nö i bi elektro-sicherheitsberater ^^ Und bald Ingenieur :p. (Kaktus)"
+			"Nö i bi elektro-sicherheitsberater ^^ Und bald Ingenieur :p. (Kaktus aka Fragnit)"
 
 			"Hei Grossmuetter vom Severin alles alles gueti zum geburi. (Sklaven des Tools)"			
                 )
@@ -38,7 +39,7 @@ ARR_LENGHT=${#arr[@]}
 if [ -z $1 ]; then
 
 	## Choose a randoom entry ...
-	RAND_NUMB=$(( ( RANDOM % $ARR_LENGHT )  + 1 ))-1
+	RAND_NUMB=$(( ( RANDOM % $ARR_LENGHT )  + 1 )) -1
 
 	## Give out ...
 	echo "${arr[$RAND_NUMB]}"
