@@ -42,20 +42,36 @@ if [ -z $1 ]; then
 
 	## Give out ...
 	echo "${arr[$RAND_NUMB]}"
+else
+
+	if [ "$1" = "-all" ]; then
+
+		for (( i=0; i<=$ARR_LENGHT; i++ ))
+		do
+			## Give out ...
+			echo "${arr[i]}"
+			echo "   "			
+		done
+	else
+
+		## now loop through the above array
+		for i in "${arr[@]}"
+		do
+		  	if [[ $i = *$1* ]]; then
+				echo $i
+				echo "   "
+			fi
+		done
+
+	fi
 
 fi
 
 
 
-if [ "$1" = "-all" ]; then
 
-	for (( i=0; i<=$ARR_LENGHT; i++ ))
-	do
-		## Give out ...
-		echo -e "${arr[i]}\n"
-	done
 
-fi
+
 
 
 
