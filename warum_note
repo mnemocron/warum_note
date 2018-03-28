@@ -1,35 +1,46 @@
 #!/bin/bash
 
 ## Define Database for ...
-declare -a arr=(	"Warum Note? (R.M.)" 
-
+declare -a arr=(	
+			"Manchmal schicke ich ne Karte, manchmal ficke ich ne Schwarze (Faber)"
+			"Ide Pfadi heissi Tarantula (B.)"
+			"Nico esche en Meitschischmöker (Alex)"
+			"Dä het no meh Fingerspitzegfühl als der Hanspi (Alex)"
+			"Isch de Bode zhart, isch de Pfader z'zart (Pfnüsu)"
+			"Bisch du Behindert? (Elias)"
+			"Dini Mueter isch Fett (I.)"
+			"Sächsi tram (M.M)"
+			"Liiiiiiimes von iiiiiiiiiix gegen Unendlich IIIIIntegral ... (Concita)"
+			"Soory habe gespritzt (Asi Türk)"
+			"Bombe ider Fläsche (Asi Türk)"
+			"Die Flasche unter der Kurve (R.M)"
+			"Das ultimative Lachen (S.S)"
+			"Wer hat am Mittwoch Geburtstag? (L.H)"
+			"Hey figger Wigger alles Stief? (O.W)"
+			"Gange hüt no go Chüe mobbe (D.H)"
+			"Du bist zwar erst sechzehn, komm wir drehen Sexszenen (Faber)"
+			"Was isch en Lauch im Tornado? (Elias)"
+			"So jetzt wäri en guete Moment zum wider Synchronisiere (H.S)"
+			"Hey säg mol öppis Gschits (I.P)"
+			"Mini Herre das isch de Trüc (D.J)""Warum Note? (R.M.)" 
 			"Guten Tag Herr Christoph :-) (D.A.)"
-
 			"Wissen Sie überhaupt, wie der Winkel definiert ist?! (P.N.)"
 			"Totale Überforderung der Studis. (P.N.)"
 			"Sklave des Tools! (P.N.)"
 			"Grad Patent amelde. (P.N.)"
-
                 	"Und jetzt kommt der Moment, in dem der Frosch in Wasser sprint und sein Leben riskiert. (R.G.)"
 			"Yes Yes (R.G.)"
 			"check - check - double check (R.G.)"
 			"bätsch bätsch (R.G.)"
 			"Mit dem chamer chlini Chind verschrecke! (R.G.)"
-
 			"Audi-Max und -Moritz. (M.M.)"
-
 			"Guten Nachmittag miteinander. (H.P.S.)"
 			"Wiksed Sie witer! (H.P.S.)"
-
 			"Was macht ein Lauch im Wind? (E.v.D.)"
-
 			"Sind Sie Tessiner? (S.W.)"
 			"Simulieren ist wirtschaftlich und macht spass? (S.W.)"
-
 			"Gioconda (C.B.)"
-
 			"Nö i bi elektro-sicherheitsberater ^^ Und bald Ingenieur :p. (Kaktus aka Fragnit)"
-
 			"Hei Grossmuetter vom Severin alles alles gueti zum geburi. (Sklaven des Tools)"			
                 )
 
