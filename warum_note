@@ -27,6 +27,7 @@ declare -a arr=(
 			"Wissen Sie überhaupt, wie der Winkel definiert ist?! (P.N.)"
 			"Totale Überforderung der Studis. (P.N.)"
 			"Sklave des Tools! (P.N.)"
+			"pspice - It's pspicier (P.B)"
 			"Grad Patent amelde. (P.N.)"
                 	"Und jetzt kommt der Moment, in dem der Frosch in Wasser sprint und sein Leben riskiert. (R.G.)"
 			"Yes Yes (R.G.)"
@@ -42,7 +43,7 @@ declare -a arr=(
 			"Gioconda (C.B.)"
 			"Nö i bi elektro-sicherheitsberater ^^ Und bald Ingenieur :p. (Kaktus aka Fragnit)"
 			"Hei Grossmuetter vom Severin alles alles gueti zum geburi. (Sklaven des Tools)"
-			"Dini Mueter isch so Fett, me gset se usem All"
+			"Dini Mueter isch so Fett, me gset se usem All. (Quelle?)"
 			"Spile mer es Risiko? (R.v.D)"
 			"Isch sLäbe guet (R.G)"
                 )
