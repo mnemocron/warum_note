@@ -2,10 +2,12 @@
 
 ## Define Database for ...
 declare -a arr=(	
+			"Wennd merksch, dass d Initiale (H.P.S.) vom Hanspi zemli bitter ironisch sind. (N.S)"
+			"@Elias: Wer isch Faber?"
 			"Manchmal schicke ich ne Karte, manchmal ficke ich ne Schwarze (Faber)"
 			"Ide Pfadi heissi Tarantula (B.)"
-			"Nico esche en Meitschischmöker (Alex)"
-			"Dä het no meh Fingerspitzegfühl als der Hanspi (Alex)"
+			"Nico esche en Meitschischmöker (A.S.)"
+			"Dä het no meh Fingerspitzegfühl als der Hanspi (A.S.)"
 			"Isch de Bode zhart, isch de Pfader z'zart (Pfnüsu)"
 			"Bisch du Behindert? (Elias)"
 			"Dini Mueter isch Fett (I.)"
@@ -52,9 +54,8 @@ declare -a arr=(
 ARR_LENGHT=${#arr[@]}
 
 if [ -z $1 ]; then
-
 	## Choose a randoom entry ...
-	RAND_NUMB=$(( ( RANDOM % $ARR_LENGHT )  + 1 )) -1
+	RAND_NUMB=$(( ( RANDOM % $ARR_LENGHT )  + 1))-1
 
 	## Give out ...
 	echo "${arr[$RAND_NUMB]}"
