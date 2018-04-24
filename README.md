@@ -1,6 +1,10 @@
 # warum_note
-EIT 2016-2019
 
-# how-to
-Skript warum_note mittels echo `./warum_note` aufrufen.
+EIT 2017-2020
+
+---
+
+### how-to
+
+Skript `warum_note.sh` mittels `./warum_note.sh` aufrufen.
 
