@@ -51,6 +51,7 @@ declare -a arr=(
 			"Handgelenk mal PI durch Waldluft (M.M.)"
 			"Dirac Töggel (M.M.)"
 			"Da habens Sie einen Schlurzkuss (M.M.)"
+			"War das Frage? (R.M.)"
 			)
 
 ## Find Database lenght ...
