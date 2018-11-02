@@ -18,7 +18,7 @@ declare -a arr=(
 			"Sklave des Tools! (P.N.)"
 			"pspice - It's pspicier (P.B.)"
 			"Grad Patent amelde. (P.N.)"
-            "Und jetzt kommt der Moment, in dem der Frosch in Wasser sprint und sein Leben riskiert. (R.G.)"
+            		"Und jetzt kommt der Moment, in dem der Frosch in Wasser sprint und sein Leben riskiert. (R.G.)"
 			"Yes Yes (R.G.)"
 			"check - check - double check (R.G.)"
 			"bätsch bätsch (R.G.)"
@@ -41,6 +41,16 @@ declare -a arr=(
 			"Hold the Horses! (R.G.)"
 			"Und wenn sie dann den Fisch auf den Speer werfen... (C.W.)"
 			"Ich han jetz ächt kei Bock mit dir z'flirte du mit dine schwule Augebrauetricks! (C.A.)"
+			"Eventunell (M.M.)"
+			"Ausser rauschen nichts zu lauschen (M.M.)"
+			"Migrosfarad (M.M.)"
+			"Kapazität: Einheit ist Velo(M.M.)"
+			"Dann kriegen Sie den Föifliber, s'Weggli und die Bäckerstochter (M.M.)"
+			"Mittelsellenwender (M.M.)"
+			"Feld-Wald-Wiesen-Elektronik (M.M.)"
+			"Handgelenk mal PI durch Waldluft (M.M.)"
+			"Dirac Töggel (M.M.)"
+			"Da habens Sie einen Schlurzkuss (M.M.)"
 			)
 
 ## Find Database lenght ...
