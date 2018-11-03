@@ -52,6 +52,12 @@ declare -a arr=(
 			"Dirac Töggel (M.M.)"
 			"Da habens Sie einen Schlurzkuss (M.M.)"
 			"War das Frage? (R.M.)"
+			"[...] werden aber von den Studis nicht ernst genommen (offensichtlich muss es sehr weh tun!). Durch Nichtanschreiben von M und benennen der Spannung lassen sich viele Studis schon aus dem Konzept bringen. (P.N.)" 
+			"[...] Muss erfüllt sein. Wer diese Kontrolle weglässt spielt Russisches Roulett! (P.N.)"
+			"Interpretation: Studis schalten PC/Matlab ein und Kopf aus! (P.N.)" 
+			"oft erwähnt und demonstriert, aber Studis sind teilweise therapieresitent (P.N.)"
+			"Wer hier einen Solver benutzt, hat sein Handwerk nicht im Griff. (P.N.)"
+			"Hier will ich kein Bodeplot von Tool/Matlab, sondern eine Handrechnung. Irgendeinmal bringe ich das schon noch in die Köpfe (P.N.)"
 			)
 
 ## Find Database lenght ...
