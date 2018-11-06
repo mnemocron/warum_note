@@ -58,6 +58,7 @@ declare -a arr=(
 			"oft erwähnt und demonstriert, aber Studis sind teilweise therapieresitent (P.N.)"
 			"Wer hier einen Solver benutzt, hat sein Handwerk nicht im Griff. (P.N.)"
 			"Hier will ich kein Bodeplot von Tool/Matlab, sondern eine Handrechnung. Irgendeinmal bringe ich das schon noch in die Köpfe (P.N.)"
+			"Leben am Limes (?)"
 			)
 
 ## Find Database lenght ...
