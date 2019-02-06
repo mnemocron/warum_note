@@ -1,10 +1,32 @@
 # warum_note
 
-EIT 2017-2020
+Quotations from Lecturers at FHNW (EIT 2017-2020)
 
----
+## Usage
 
-### how-to
+Running the script:
 
-Skript `warum_note.sh` mittels `./warum_note.sh` aufrufen.
+```
+Usage: ./warum_note.sh [--all | <substring>]
 
+Options:
+  --all        Print all quotations
+  <substring>  Print quotations containing <substring>
+```
+
+## Examples
+
+Print a random quotation:
+```bash
+$ ./warum_note.sh
+```
+
+Print all quotations:
+```bash
+$ ./warum_note.sh --all
+```
+
+Print quotations containing "Yes":
+```bash
+$ ./warum_note.sh Yes
+```
