@@ -63,6 +63,8 @@ declare -a arr=(
 			"Wer hier einen Solver benutzt, hat sein Handwerk nicht im Griff. (P.N.)"
 			"Hier will ich kein Bodeplot von Tool/Matlab, sondern eine Handrechnung. Irgendeinmal bringe ich das schon noch in die Köpfe. (P.N.)"
 			"Leben am Limes. (?)"
+			"Dann sind Sie bereit für Industrie. (T.N.)"
+			"Ein RS-232 Adapter funktioniert nicht Da keine COM Ports mehr vorhanden sind an den heutigen Notebooks, wurde ein Adapter [...] gekauft. (EUT Thesis)"
 			)
 
 # Length of array $arr
