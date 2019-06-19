@@ -65,6 +65,7 @@ declare -a arr=(
 			"Leben am Limes. (?)"
 			"Dann sind Sie bereit für Industrie. (T.N.)"
 			"Ein RS-232 Adapter funktioniert nicht Da keine COM Ports mehr vorhanden sind an den heutigen Notebooks, wurde ein Adapter [...] gekauft. (EUT Thesis)"
+			"Das ist Wahrheit. (R.M.)"
 			)
 
 # Length of array $arr
