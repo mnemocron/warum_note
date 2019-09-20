@@ -66,6 +66,17 @@ declare -a arr=(
 			"Dann sind Sie bereit für Industrie. (T.N.)"
 			"Ein RS-232 Adapter funktioniert nicht Da keine COM Ports mehr vorhanden sind an den heutigen Notebooks, wurde ein Adapter [...] gekauft. (EUT Thesis)"
 			"Das ist Wahrheit. (R.M.)"
+			"Die Suchmaschine macht was sie soll. Sie sucht. Aber sie findet nichts. (M.M.)"
+			"Not even perhaps! (H.S.)"
+			"Hobbies sind etwas für haufmännische Angestellte. Wahre Männer haben Leidenschaften! (M.M.)"
+			"Spätestens dann sollten Sie den Schöpflöffel holen, um Verdacht zu schöpfen. (M.M.)"
+			"[...] und eigentlich der Übergang von ziemlich gut zu ziemlich scheisse ist ziemlich kurz. (M.M.)"
+			"Sie sind devinitiv nid multitasking-fähig Herr H., devinitiv nid! (P.N.)"
+			"Eimol grächnet isch grundsätzlich falsch! (P.N.)"
+			"Wieso schribeter do R? Was söll das verdammte R? S'Hirni ischalte bim Abschribe wür nid schade. (P.N.)"
+			"Das isch Bruefsschuelniveau, vergässet Sie das! (P.N.)"
+			"Das isch wischi-waschi Sproch! Das chönd si i de Gwärbschuel säge, aber nid do! (P.N.)"
+			"Auch im FS19 gab es leider Gambler, [...] die gerieten so vom Regen unter Umgehung der Traufe in die Scheisse. (M.M.)"
 			)
 
 # Length of array $arr
