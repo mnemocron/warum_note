@@ -78,6 +78,7 @@ declare -a arr=(
 			"Das isch wischi-waschi Sproch! Das chönd si i de Gwärbschuel säge, aber nid do! (P.N.)"
 			"Auch im FS19 gab es leider Gambler, [...] die gerieten so vom Regen unter Umgehung der Traufe in die Scheisse. (M.M.)"
 			"Insbesondere bei virtualisiertem Linux dauert die Kompilation einige Kaffees lang! (M.M.)"
+			"Why are you so asleep? Wake the fuck up! (H.S.)"
 			)
 
 # Length of array $arr
